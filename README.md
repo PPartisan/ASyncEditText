@@ -6,5 +6,7 @@ I have made three video demonstrations that show this app running on a [Huawei H
 running Lollipop 5.1](http://www.gsmarena.com/asus_google_nexus_7_(2013)-5600.php). GPU Profiling is on in each case.
 
 [Honor Holly - Acceleration On](https://drive.google.com/file/d/0BygzWY4QsrwEbWQtSjFUWFFNdWM/view?usp=sharing)
+
 [Honor Holly - Acceleration Off](https://drive.google.com/file/d/0BygzWY4QsrwEX09aYzVSSENXZFU/view?usp=sharing)
+
 [Nexus 7 (2013) - Acceleration On](https://drive.google.com/file/d/0BygzWY4QsrwEVkttRVN0RVlKN2c/view?usp=sharing)
